@@ -6,9 +6,7 @@
 This minimal weather interface was made following SwiftUI Basics Tutorial by Sean Allen. This app uses a simple view hierarchy to display static weather content. The background gradient is bound to the button to toggle between a light and dark interface.
 
 
-<b>Tutorial:</b>
-
-
+<b>Tutorial:</b></n>
 https://youtube.com/watch?v=6KiuwAUL61E&si=EnSIkaIECMiOmarE
 
 
