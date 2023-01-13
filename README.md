@@ -7,6 +7,8 @@ This minimal weather interface was made following SwiftUI Basics Tutorial by Sea
 
 
 <b>Tutorial:</b>
+
+
 https://youtube.com/watch?v=6KiuwAUL61E&si=EnSIkaIECMiOmarE
 
 
