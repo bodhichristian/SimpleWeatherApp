@@ -4,3 +4,6 @@
 
 
 SwiftUI Basics Tutorial by Sean Allen. This app uses a simple view hierarchy to display static weather content. The background gradient is bound to the button to toggle between a light and dark interface.
+
+
+Completed 7/15/22
